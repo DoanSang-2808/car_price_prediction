@@ -1,6 +1,7 @@
 #Import thư viện
 import pandas as pd
 import numpy as np
+import keras
 import math
 import os
 from os import listdir
